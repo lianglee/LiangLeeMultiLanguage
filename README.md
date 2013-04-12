@@ -7,4 +7,8 @@ Note: The Languages is translated by Liang Lee Php IDE, its not Humman Translate
 
 Languages:
 
-*
+* German
+* Italian
+
+Note: More language are added in feature release.
+
